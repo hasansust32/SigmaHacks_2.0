@@ -13,8 +13,8 @@ SigmaHacks_2.0
 - Sigmahacks 2.0 - where ingenuity meets impact and the future is shaped by the keystrokes of innovation.
 - Get ready to witness the dawn of a new era in COVID-19 solutions.
 
-Our Solutions :
-================
+Watch the Video by clicking the image :
+=====================================
 
 [<img src="https://github.com/hasansust32/SigmaHacks_2.0/blob/main/sigmahacks.png" width="50%">](https://www.youtube.com/watch?v=uUokDOZOP-o&t=34s&ab_channel=S.MMahamudulHasan "SigmaHacks 2.0: 55")
 
